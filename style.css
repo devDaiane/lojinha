@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: rgb(190, 61, 218);
+    height: 100px;
+}
+
+li{
+    display: inline-block;
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.vestido, .short, .saia, .blazer{
+    margin-top: 50px;
+    display: inline-block;
+    border: solid;
+    margin-left: 50px;
+}
+
+img{
+    width: 300px;
+    height: 230px;
+}
+
+h3, button{
+    margin-left: 110px;
+}
+
+form{
+    margin-left: 70px;
+}
+
+footer{
+    background-color: rgb(242, 157, 242);
+    color: black;
+    margin-top: 220px;
+    height: 70px;
+    }
+
+.cadastro{
+    display: inline-block;
+    }
+
+
+
+ 
+    
